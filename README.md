@@ -2,14 +2,14 @@
 
 # Commands CLI
 
-mkdir: Used to create a new folder / directory
-touch: Used to create a new file
-rm: To remove / delete files
-rm -rf (recursive force): To delete folders
-curl: Used to perform network requst (wttr.in) API
-ls: List (to list all the files)
-cd: Change directory (to go inside a folder)
-(cd ..): TO go one folder back
+- `mkdir`: Used to create a new folder / directory
+- `touch`: Used to create a new file
+- `rm`: To remove / delete files
+- `rm -rf` (recursive force): To delete folders
+- `curl`: Used to perform network requst (wttr.in) API
+- `ls`: List (to list all the files)
+- `cd`: Change directory (to go inside a folder)
+- `cd ..` TO go one folder back
 
 # Node
 
